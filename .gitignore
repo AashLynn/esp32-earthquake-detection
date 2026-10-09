@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated plots and analysis output
+timing_window_analysis/
+*.png
+
+# Raw seismic waveform data
+*.SAC
+*.sac
+
+# Arduino build files
+build/
+*.elf
+*.bin
+*.hex
+
+# Operating system
+.DS_Store
+Thumbs.db
