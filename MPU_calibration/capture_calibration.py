@@ -6,8 +6,8 @@ import os
 PORT = "COM5"
 BAUD_RATE = 115200
 
-DATA_FILE = "calibration_data.csv"
-SUMMARY_FILE = "calibration_summary.csv"
+DATA_FILE = "ordinary_calibration_data.csv"
+SUMMARY_FILE = "ordinary_calibration_summary.csv"
 
 print("Connecting to ESP32...")
 
